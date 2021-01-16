@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e51286-3638-4bed-97d4-0c3f559e257b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n9IRP3gkXBhDoqMoCCEOjRvKzf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/drivers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\Cucumber\WeatherSg\src\test\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: weather" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/weather.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WeatherSg" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: weather" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="WeatherSg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StepDefinitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="StepDefinitions.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: weather" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e51286-3638-4bed-97d4-0c3f559e257b" name="Default Changelist" comment="" />
+      <created>1610795870151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610795870151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="-903" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610805450064">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="414" y="-903" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1610805450064" />
+    <state x="704" y="-751" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610796686888">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="704" y="-751" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1610796686888" />
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom" timestamp="1610807278380">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1610807278380" />
+    <state width="1876" height="269" key="GridCell.Tab.0.center" timestamp="1610807278380">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1610807278380" />
+    <state width="1876" height="269" key="GridCell.Tab.0.left" timestamp="1610807278379">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1610807278379" />
+    <state width="1876" height="269" key="GridCell.Tab.0.right" timestamp="1610807278380">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1610807278380" />
+    <state x="490" y="-903" key="Maven.ArtifactSearchDialog" timestamp="1610804203806">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="490" y="-903" key="Maven.ArtifactSearchDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1610804203806" />
+    <state x="463" y="-915" key="SettingsEditor" timestamp="1610796735721">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="463" y="-915" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1610796735721" />
+    <state x="668" y="-733" key="com.intellij.ide.util.TipDialog" timestamp="1610803453806">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="668" y="-733" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1610803453806" />
+  </component>
+</project>
